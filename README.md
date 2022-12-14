@@ -1,7 +1,6 @@
-👋 ¡Hola! Soy Miguel García, Programador Web en desarrollo (¡desarrollo web! 🤪)
+👋 ¡Hola! Soy Miguel García, Programador Web Full Stack
 
-- 🔭 Realizando proyectos de Web Dev  (FrontEnd actualmente, y con conceptos básicos de BackEnd y clara intención de FullStack a futuro)
-
+- 🔭 Realizando proyectos de Frontend y de Backend
 
 - 🌱 Tecnologías que utilizo actualmente o que he utilizado anteriormente como mínimo una vez, y en las que constantemente busco aprender más conocimientos y realizar proyectos de todo tipo:
 
@@ -20,11 +19,10 @@
 </div>
 
 
-
-- ⚡ Siempre buscando hacer código con buenas prácticas y mejorando constantemente
+- ⚡ Siempre buscando hacer código con buenas prácticas y mejorando constantemente, aprender nuevas tecnologías.
 
 
 - 🗺️ Idiomas: Español (lengua materna) e Inglés: escrito y hablado (buen nivel de inglés, en mi trabajo anterior realizaba varias llamadas diarias con gente anglosajona casi todos los días, y he escrito gran cantidad de artículos en inglés como ghostwriter)
 
 
-- 📫 Email: miguelgarcia98rd@gmail.com
+- 📫 Email: miguelgarcia98rd@gmail.com 
