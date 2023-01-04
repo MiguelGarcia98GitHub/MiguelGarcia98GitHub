@@ -22,7 +22,7 @@
 		<code><img height="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB" /></code>
 		<code><img height="50" src="https://devstickers.com/assets/img/pro/rd5f.png" alt="socket.IO" title="socketIO" /></code>
 	<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Postman" title="Postman" /></code>
-	<code><img height="50" src="https://miro.medium.com/max/796/1*Q26gw-kNzOXUqZKRr04T-g.png" alt="Jest" title="Jest" /></code>
+	<code><img height="50" src="https://viget.imgix.net/jest.png?auto=format%2Ccompress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&ixlib=php-2.1.1&q=90&s=882391e6854c3c621bcdc2df1c80c2e7" alt="Jest" title="Jest" /></code>
 	
 </div>
 
