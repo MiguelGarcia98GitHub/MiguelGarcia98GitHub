@@ -28,7 +28,7 @@
 	<code><img height="60" src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Postman" title="Postman" /></code>
 	<code><img height="60" src="https://viget.imgix.net/jest.png?auto=format%2Ccompress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&ixlib=php-2.1.1&q=90&s=882391e6854c3c621bcdc2df1c80c2e7" alt="Jest" title="Jest" /></code>
  <code><img height="60" src="https://user-images.githubusercontent.com/10379601/29446482-04f7036a-841f-11e7-9872-91d1fc2ea683.png" alt="Puppeteer" title="Puppeteer" /></code>
-  <code><img height="60" src="https://soliditylang.org/images/logo.svg" alt="Solidity" title="Solidity" /></code>
+  <code><img height="60" src="https://cointral.com/wp-content/uploads/2019/11/solidity-nedir.png" alt="Solidity" title="Solidity" /></code>
 	
 </div>
 
