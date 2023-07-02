@@ -1,4 +1,4 @@
-- 👋 ¡Hi! I am Miguel Garcia, Full-Stack Web & Phone Applications Developer
+- 👋 Hi! I am Miguel Garcia, Full-Stack Web & Phone Applications Developer
 
 - ⚡ Always looking to make scalable proyects with quality code, always learning new technologies and improving constantly.
 
